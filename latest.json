@@ -1,11 +1,23 @@
 {
-  "version": "0.5.2",
-  "notes": "Fix update checks stuck on Checking, add a direct manifest endpoint and timeout recovery, and simplify the header to Connected.",
-  "pub_date": "2026-11-15T19:07:18.876Z",
+  "version": "0.6.0",
+  "notes": "Android can check for updates, download the matching APK and open the system installer. Transparent emblem-only app icons.",
+  "pub_date": "2026-11-15T19:28:23.622Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFZFQkNuMWxBa0pHRVNKcC9jL1hJTURITVMvYUpZSG9LY1lycGkvY1JGMFBlN1kwYVRiWnRYdGZqWXZ6NjhUVS9NMTVldU04ZHpMNDNZWG9zbG11N0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY5NTE3CWZpbGU6Tm9pcmEgU3BpY2VzXzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgpzaTB2T3N5VGxWelVTblZ3a2M3aThRc0RmditUTVMxNDZwL1RCKy9iVDU0L295VnBEVUVhWWdRdHVSZnRDLzl2N2FsNVdZZTBIRFUzbURzdzdFdmlCdz09Cg==",
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.5.2/Noira-Spices-0.5.2-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFkyZkRsak1yMlBVTGVDZWd2WFVBM3U2aEVuQTN0S3prVjlwQXdpNmxNVUptT21kQkRkaDlDTDExdGdKZjQvUGxjVnU1dlo4Uk0xNFRRako1SFo3T2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwODM3CWZpbGU6Tm9pcmEgU3BpY2VzXzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMAppazhGQU9aYWNzaWpxeVVLUGExa09sZy83NldBTWZlS0FpcTdpZXRoMm9KeWxaUWdIbTFlSXdPbEN4SStubHdyWXRiMm9LeHdwOWowWGlwNFJQZjNDZz09Cg==",
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.0/Noira-Spices-0.6.0-Windows-x64-Setup.exe"
+    },
+    "android-aarch64": {
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.0/Noira-Spices-0.6.0-Android-Test.apk",
+      "sha256": "379a1fca3cd1c2081f55fd6bb94cf75823f0c167dcff5a823c4769f92c7fa8ba",
+      "size": 32659846,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TGQrRmRMM0pOall2RXBiRFVBUldlVm1vQy9Temdyb2xyeVd0dGNlS1l3TTFBeE9aRkxoejlpQ0tIZUt0Qk0vdmtveUgzMjBBTi9ub0gvZkJiOThWa2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwOTAzCWZpbGU6YXBwLWFybTY0LWRlYnVnLmFwawl2ZXJzaW9uOjAuNi4wCmcydEFuM0Q2aExBU3ZBOXRiajAveTA0V0prVXVPQzExTFBNVDM0VEkyRWE0a1RPVEF0eDJqOXVCWlpDMVpHdmxhZjdsTDdtM2t3Tm5YdGZYL2xrc0R3PT0K"
+    },
+    "android-x86_64": {
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.0/Noira-Spices-0.6.0-Android-x86_64-Test.apk",
+      "sha256": "72dd8ddfaafe6417ef94481b0533a9da08e1cd2e4e9a43d6b750f8f002035234",
+      "size": 32499691,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TGFSU0RLeHR4L2RMdFQrb0tFMm1qYWkySnJDUG9yZFFBQnFrWFJGOUw5Y2JzZXVlTWp6UUU5anJwZ1JSeTlicC9hNC9SSUFZR284V0FVbWRVMXd0Qmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwOTA0CWZpbGU6YXBwLXg4Nl82NC1kZWJ1Zy5hcGsJdmVyc2lvbjowLjYuMApCVE5NUmtpdWRoUUVZc3JuUms4VktJRG1ZdENlVFpkZG9weWpCd3FSVW50MUhLazhMQkxleE1TRFpGMVEwNDNtdjgySmRiU3BiTjkzNUR3cm54OXBBZz09Cg=="
     }
   }
 }
