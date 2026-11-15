@@ -1,0 +1,11 @@
+{
+  "version": "0.5.1",
+  "notes": "Signed automatic Windows update checks with signed-version enforcement. Fully online Noira billing and shared invoice numbering.",
+  "pub_date": "2026-11-15T18:52:23.851Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TGRkZGM1REE3QkQwem1HVjRSMnhRNmZmYldRNEhaU2JVYlN4WkordkZXYlQ0by9rQTgyOHQ0VnJxYXZsSDBJTGpPTnpkbUhSZVVOelZMbDVNcGxISndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY4NjA3CWZpbGU6Tm9pcmEgU3BpY2VzXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpoU2tUeHR4WGcxN2s0RXdnSFJDc1N5ZzNrL0lPVkJRYmlVZ2Z0bWR5TTN6VmxreHBBUk5NMjg0Y3pnQlA5UmNNZWtuSCtuNzgwMm9qSGFyRHRleEZBdz09Cg==",
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.5.1/Noira-Spices-0.5.1-Windows-x64-Setup.exe"
+    }
+  }
+}
