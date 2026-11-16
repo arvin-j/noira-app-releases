@@ -1,23 +1,23 @@
 {
-  "version": "0.6.3",
-  "notes": "Noira 0.6.3: startup loading screen and larger transparent Windows taskbar icon.",
-  "pub_date": "2026-11-16T03:01:17.255Z",
+  "version": "0.6.4",
+  "notes": "Noira 0.6.4: invoice creation belongs in Invoices; focused actions across all tabs.",
+  "pub_date": "2026-11-16T03:11:21.212Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFZoUStoQUxuaVRRYVdNWmd1ZDJ4Z2NRNVU2UHBOOTBXM2R4b3JXdDJ4RjN1UTFoZUlUcStIQnRZam5LcUpTOWxoQ0FxUDJHLzNzUXdKNzdFNUJ3Q2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk3OTUzCWZpbGU6Tm9pcmEgU3BpY2VzXzAuNi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMwo4R3BjR3JOanhJanBJQXN3a2dJeEF3c1E2OU5Qa3hZRzhzckRqTnBNN3lPT0F5eDBCeXRqZjJ0Zno4Zll5R1E0RDR3OXRQQXRwMHQwVCt1MXVUYzBCZz09Cg==",
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.3/Noira-Spices-0.6.3-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TGVGdzlSdFM3WWdnL05MQnArVUdtbkRpYit3RTZuYkhKY1ZFZ0FEUUZsQXhkZVJiaTBZZklqaXhnU1dmdWVOZFE2WlFCRXpoQ0xQT1owN0tWNU1DendrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4NjMxCWZpbGU6Tm9pcmEgU3BpY2VzXzAuNi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNApCT3VBNGhCZG1qVDdPNHpzWVNMTm9ENjdmMHJVVFNTR2VtYjc2NHFwNjhpUElBU3FRWmxkZFUrRy9lcTgxT1h0eWFBdmZNQzJVYzlqMVRpSnY5cXVBUT09Cg==",
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.4/Noira-Spices-0.6.4-Windows-x64-Setup.exe"
     },
     "android-aarch64": {
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.3/Noira-Spices-0.6.3-Android-Test.apk",
-      "sha256": "4c5e519c8329100d48b1385fbf98096591fd9c160252d11b4e8311dd71bf5ba8",
-      "size": 13985542,
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFZpSnhEQVAwR29UWGV6eDFSaStQRTBGb25QaUxmdGpaUElHWjN3RDFOYnZuZzNmZDlYSFlZRlYyMzJHbVczQ3ZHM1UyeTJ4SnQ4dkNieVdoUEs5RXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4MDc3CWZpbGU6YXBwLWFybTY0LXJlbGVhc2UuYXBrCXZlcnNpb246MC42LjMKMmMwVk1NRnRGT0ZKTGgyVlJCS2N4alBWRjd6d3dsNE9nSmhTUjQwc0J1U3ZHeDBIcnhwM3VvNW9BbjJEYjR4SWlBQ2pjaS9raFNaTlgyVzNNR25rQVE9PQo="
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.4/Noira-Spices-0.6.4-Android-Test.apk",
+      "sha256": "3ed5182c6ae9bd21cdf74346943a3a6380be9daa514bddd7186ced2ec07904a9",
+      "size": 13985318,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFh0ejB0UHRIVlE4a2ZwVEhRNDFPaGNlQnJqSkVwZDE2WlNTQWhJa1lOaDU5TlhhRkJGbWw1MVd3WW5ZOEZtQmRaSm9teXhQSWhHWUZsdWVxU1JHalFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4NjgxCWZpbGU6YXBwLWFybTY0LXJlbGVhc2UuYXBrCXZlcnNpb246MC42LjQKSW8ra0xYV3lpZkdqZ0kyMDA3eEFEY2FGNmdsTEVheHNZOU1YVDB5bm91OGFObVZCa3VYZ0xMRXVabk94WGFQWXF2SUlBU1FObmNyQjM2YUVGYUF4RHc9PQo="
     },
     "android-x86_64": {
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.3/Noira-Spices-0.6.3-Android-x86_64-Test.apk",
-      "sha256": "4be876409a6b76d01224babdd703412dbc637f5dce050652bfd2b94d40d9c844",
-      "size": 13603731,
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFh5U2oxbU1aS0hmOHNHM1Job1ZsL3U0Y3p4MmdQK3B3SERIYVl4Y3Q5dGhjekdCL1pSUWpCRkFvcG5Va2pZUVRuNzZXOVd2eit2RXd6WkZ0b2tzV2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4MDc4CWZpbGU6YXBwLXg4Nl82NC1yZWxlYXNlLmFwawl2ZXJzaW9uOjAuNi4zClFQU3BDeW9OQ1d6VGFJWFpGTU1oNElqeS9pMXdDbGVhYUV5aVd3NkVTcmlpU29Cd3hETCtxTmJtcVJxRitqaVV0a1llUTBiQ3RvUmRDZWNmbDFYekJ3PT0K"
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.6.4/Noira-Spices-0.6.4-Android-x86_64-Test.apk",
+      "sha256": "6d5c00576ccac02522b8f4827c867efc3f1bb82b80650b97c986102eae0f386d",
+      "size": 13603291,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFhzbHFINnEzOTJXc1BrVy9IZjNuOTM2aHhRdkRaRHJrYWI4MDlDSWpFbkNTdVlIbDhrZmRNUGJqK3JuQVBTNW9oOW5keHZoUG1NT1J5RmlVQUZuSUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4NjgyCWZpbGU6YXBwLXg4Nl82NC1yZWxlYXNlLmFwawl2ZXJzaW9uOjAuNi40CllhSmxiS2wySmkvcnljaXFrRnY1U1FnM0c2ZnJwbWdlTzMzOGtlMEg3UGR1NVRrZzlHOVR4b1hPTi9Gc3BTVDNMM1dnajJEeGdqaWhlUFN6WHVyWkFnPT0K"
     }
   }
 }
