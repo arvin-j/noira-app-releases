@@ -1,23 +1,23 @@
 {
-  "version": "0.7.0",
-  "notes": "Sell by weight, piece, pack, bottle, or box. Mixed invoices show quantities and prices for each selling unit. Update all billing devices before adding counted products.",
-  "pub_date": "2026-11-24T01:39:10.952Z",
+  "version": "0.8.0",
+  "notes": "Purchase bills and suppliers, batch and expiry tracking, counted packing, collections and due dates, and thermal receipt printing. Physical printer compatibility has not been verified.",
+  "pub_date": "2026-11-25T16:04:51.455Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFpzSERCeXlGTUFpZmxSYTRjbEZ6ZE9ON0J2NWovdVpqU3ViWi9LK2dYU0liYWx1cHdoY0Z4ckJrMmVyVERiOG93ZS9GT0s1cXhxZWNVZi9pbmMwZ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg0MjQzCWZpbGU6Tm9pcmEgU3BpY2VzXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApWSytBb2lvc2FwT2UyTlpKWTlvM3kzVDFGc1psUVF0cHVsVWwvN1FtTmQwaUlHazZYTUE2dzZOVGxjSW9TbXRxZUIraW9ja3g3TmJxSWRqNVMvSXVBZz09Cg==",
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.7.0/Noira-Spices-0.7.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFdTMEJQbXprNGRLSVdtSHhldVZZei9ob290K1ZuVjNBOUZUdjVRZUc5TWROOWs1TmwweDE0dkxnUzNjZldMcm9QZ3cxMmNnQWZEd3dUc1Q1RHlxd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIyNTgwCWZpbGU6Tm9pcmEgU3BpY2VzXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMAp6ZkxpcDJnem9DR3FwS081ZDF2RzdTWHBERWRxdUVwUnVCSWd2Zk5XL2FudHhMdUJPczFhcXd2ZEgwOW9Vb3RaVEZrR08xN21xallGVFFia2VpM0xDdz09Cg==",
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.8.0/Noira-Spices-0.8.0-Windows-x64-Setup.exe"
     },
     "android-aarch64": {
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.7.0/Noira-Spices-0.7.0-Android-Test.apk",
-      "sha256": "8bb8d3e7adbf832e9101a6df6caaf823ba6bae09e580c710117da3ff0d2c5d2f",
-      "size": 14017718,
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFVBalp6bThqSWlyaGhpLzFEcnVZRjZTVE5MSGdLbUp5QjVBZVMrUTJha3laZHpCTG1Bc2w4eVBPV2N3OGlPMFBkZkwveVJZNHhiWEFvMjRJdUxheHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg0MzUxCWZpbGU6YXBwLWFybTY0LXJlbGVhc2UuYXBrCXZlcnNpb246MC43LjAKbEovL3dhVmxNS1BvMy8wRDZEWFp3M0FBVnNQNHQ0NmFLd3JrcFpqQlhXNFdHSWNrMnQwU1kwS2t0M20vUWhMT0s4RjZsT0FIL2FPc1FraHRhdVVwQ0E9PQo="
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.8.0/Noira-Spices-0.8.0-Android-Test.apk",
+      "sha256": "b19faa7625b67f3a3cf455a851d2fe10e3a11e6db8363419231552231c748f5c",
+      "size": 14571678,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFVjTjFuZ2IxL0VLUU9yWXRCc2d0WUNLYTdoZXozVTZSRy92bE5Xc3o2cTg2RHhLSUhRZit2emZ2bUcvN0IyZHRvQmpoMElkNVREYVNHT1M4Y1drQ0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIyNjkxCWZpbGU6YXBwLWFybTY0LXJlbGVhc2UuYXBrCXZlcnNpb246MC44LjAKWFZpYU1ML2lyRDZGOExxMkpwTzJSZlFXbzVTTGNDTjllWjZtYUJPanN5c0REck94RTU3VDEwZW1oYURYSTVzazFhcHhidDkzSS8wZWlPNVVPSWZ2QVE9PQo="
     },
     "android-x86_64": {
-      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.7.0/Noira-Spices-0.7.0-Android-x86_64-Test.apk",
-      "sha256": "ad11b2b7a529cde17c486096ce8ca9583cfd1fedc14ce5f71b2dd89fdbd6ba0c",
-      "size": 13642947,
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TFFVNTdpK0RPcXpDSGMzcEhUQ2tZa0p1YW8rekpWVEd3ZUphWTNSS0FuaWE0ZTJhNlJsdExKVlVWVU1yOFB6RENXQkVwUThGaklIMTNNTlcrenhpWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg0MzUxCWZpbGU6YXBwLXg4Nl82NC1yZWxlYXNlLmFwawl2ZXJzaW9uOjAuNy4wCnBNMEIzMzk1MUR0M0liQnJlTlR5TkdhSVFlbGpmdkpCMGF5ajJCa01mMXZaSnVXaU5kYXdZMmhtS3RrVUhXSUczK1A1djJQeTFYc3hMaTd6a3FoTER3PT0K"
+      "url": "https://github.com/arvin-j/noira-app-releases/releases/download/v0.8.0/Noira-Spices-0.8.0-Android-x86_64-Test.apk",
+      "sha256": "8495617050d72743ec6d266bf2148a0eb05ded46fe779fe2be30bacfd5f17cf3",
+      "size": 14242283,
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTcraExHb2w3TGY5SGFpNHlGT0NIOGIyMTcvWTNqL25ML0pwRFNKT0xkREp2bnlyREhaYUlRa1hBeHFHaGgvelcwRjd4MDA2VFBRRW9Cc0FJajVmQnVrblRTVk9iM0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIyNjkyCWZpbGU6YXBwLXg4Nl82NC1yZWxlYXNlLmFwawl2ZXJzaW9uOjAuOC4wClFnQmtZT3M1ZHN1M00vSkN3bGtIcCt6bnAwRjJVcTBrZ0djMTJHYjlWZlE3RWVSQlZKeU9QV29rUUNtVHRWVFVwZThQd3A5S3N3RExmb0ZyQUlhYUNnPT0K"
     }
   }
 }
